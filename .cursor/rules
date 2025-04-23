@@ -1,0 +1,11 @@
+Always use Iris framework to develop backend code.
+
+Always use gorm to develop database code.
+
+Always use Vue3 and ElementPlus to develop frontend code.
+
+Always use go mod to manage dependencies.
+
+Always use docker to deploy the application.
+
+Always use kubernetes to deploy the application.
